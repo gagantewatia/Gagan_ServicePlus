@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <listeners>
+    <listener class-name="UMANG.Cowintest.ListenersEmailablereport"/>
+  </listeners>
+  <test thread-count="5" name="Test(failed)">
+    <classes>
+      <class name="SPLabourDepartment.MaternityBenefitSchemeforregisteredWomenworkerofHBOCWWBoardTestCases">
+        <methods>
+          <include name="getResult"/>
+          <include name="Seeinfoclick"/>
+          <include name="VisitServiceclick"/>
+          <include name="browserstart"/>
+        </methods>
+      </class> <!-- SPLabourDepartment.MaternityBenefitSchemeforregisteredWomenworkerofHBOCWWBoardTestCases -->
+      <class name="SPAgricultureDepartmentHaryana.GrantofLicenceorRenewaltoinstalloruseCentrifugalforthemanufactureofKhandsariSugarTestCases">
+        <methods>
+          <include name="ServiceNavigationTestCase"/>
+          <include name="getResult"/>
+          <include name="ServicePlusPageTestCase"/>
+          <include name="Deptnavigation"/>
+          <include name="browserstart"/>
+        </methods>
+      </class> <!-- SPAgricultureDepartmentHaryana.GrantofLicenceorRenewaltoinstalloruseCentrifugalforthemanufactureofKhandsariSugarTestCases -->
+      <class name="SPPersonnelandARMeghalaya.ReturnofAssestsandLiabilitiesunderMeghalayaPublicServiceRulesTestCases">
+        <methods>
+          <include name="getResult"/>
+          <include name="ServiceNavigationTestCase"/>
+          <include name="DeptNavigation"/>
+          <include name="ServicePlusPageTestCase"/>
+          <include name="browserstart"/>
+        </methods>
+      </class> <!-- SPPersonnelandARMeghalaya.ReturnofAssestsandLiabilitiesunderMeghalayaPublicServiceRulesTestCases -->
+      <class name="SPAgricultureDepartmentHaryana.GrantOfLicenseorRenewaltoInstallAPowerCrusherForManufacturerOfGurTestCases">
+        <methods>
+          <include name="getResult"/>
+          <include name="Deptnavigation"/>
+          <include name="ServicePlusPageTestCase"/>
+          <include name="ServiceNavigationTestCase"/>
+          <include name="browserstart"/>
+        </methods>
+      </class> <!-- SPAgricultureDepartmentHaryana.GrantOfLicenseorRenewaltoInstallAPowerCrusherForManufacturerOfGurTestCases -->
+      <class name="SPLabourDepartment.FinancialAssistanceonMarriageofChildrenofregisteredworkerofHBOCWWBoardTestCases">
+        <methods>
+          <include name="getResult"/>
+          <include name="ServiceNavigationTestCase"/>
+          <include name="DeptNavigation"/>
+          <include name="ServicePlusPageTestCase"/>
+          <include name="browserstart"/>
+        </methods>
+      </class> <!-- SPLabourDepartment.FinancialAssistanceonMarriageofChildrenofregisteredworkerofHBOCWWBoardTestCases -->
+      <class name="SPDeptOfUrbanDevelopment.WaterTankBookingTestCase">
+        <methods>
+          <include name="getResult"/>
+          <include name="VisitServiceclick"/>
+          <include name="Seeinfoclick"/>
+          <include name="browserstart"/>
+        </methods>
+      </class> <!-- SPDeptOfUrbanDevelopment.WaterTankBookingTestCase -->
+      <class name="SPPersonnelandARMeghalaya.Duplicatetestcase">
+        <methods>
+          <include name="Deptnavigation"/>
+          <include name="getResult"/>
+          <include name="servicecountfromexcel"/>
+          <include name="browserstart"/>
+        </methods>
+      </class> <!-- SPPersonnelandARMeghalaya.Duplicatetestcase -->
+      <class name="SPLabourDepartmentMeghalaya.Duplicatetestcase">
+        <methods>
+          <include name="getResult"/>
+          <include name="InformationTestCases"/>
+          <include name="LogocheckTestCases"/>
+          <include name="duplicateTestCases"/>
+          <include name="ServicecountTestCases"/>
+          <include name="servicecountfromexcel"/>
+          <include name="Deptnavigation"/>
+          <include name="browserstart"/>
+        </methods>
+      </class> <!-- SPLabourDepartmentMeghalaya.Duplicatetestcase -->
+      <class name="SPAgricultureDep.SoilConversationTestcases">
+        <methods>
+          <include name="getResult"/>
+          <include name="ServicePlusPageTestCase"/>
+          <include name="ServiceNavigationTestCase"/>
+          <include name="Deptnavigation"/>
+          <include name="browserstart"/>
+        </methods>
+      </class> <!-- SPAgricultureDep.SoilConversationTestcases -->
+      <class name="SPAgricultureDepartmentHaryana.ImplementationofSchemeforProvidingImplementsMachineryonSubsidytotheFarmerofScheduleCasteCategoryDateTestCases">
+        <methods>
+          <include name="getResult"/>
+          <include name="Deptnavigation"/>
+          <include name="ServiceNavigationTestCase"/>
+          <include name="ServicePlusPageTestCase"/>
+          <include name="browserstart"/>
+        </methods>
+      </class> <!-- SPAgricultureDepartmentHaryana.ImplementationofSchemeforProvidingImplementsMachineryonSubsidytotheFarmerofScheduleCasteCategoryDateTestCases -->
+      <class name="SPDeptOfUrbanDevelopment.OnlineSewerConnectionTestCase">
+        <methods>
+          <include name="getResult"/>
+          <include name="VisitServiceclick"/>
+          <include name="Seeinfoclick"/>
+          <include name="browserstart"/>
+        </methods>
+      </class> <!-- SPDeptOfUrbanDevelopment.OnlineSewerConnectionTestCase -->
+      <class name="SPDepartmenOfHome.EndorsementofWeaponinArmsLicenseTestCase">
+        <methods>
+          <include name="getResult"/>
+          <include name="VisitServiceclick"/>
+          <include name="Seeinfoclick"/>
+          <include name="browserstart"/>
+        </methods>
+      </class> <!-- SPDepartmenOfHome.EndorsementofWeaponinArmsLicenseTestCase -->
+      <class name="SPDepartmentofHorticulture.Bookingfordevelopmentofhighdensityorchard">
+        <methods>
+          <include name="getResult"/>
+          <include name="Seeinfoclick"/>
+          <include name="VisitServiceclick"/>
+          <include name="ServicePlusPageTestCase"/>
+          <include name="Deptnavigation"/>
+          <include name="ServiceNavigationTestCase"/>
+          <include name="browserstart"/>
+        </methods>
+      </class> <!-- SPDepartmentofHorticulture.Bookingfordevelopmentofhighdensityorchard -->
+      <class name="SPAgricultureDepartmentHaryana.ApplicationforAcknowledgementofReceiptAuthorizationletterofFertilizerDealerServicesDistrictLevelTestCases2">
+        <methods>
+          <include name="getResult"/>
+          <include name="ServiceNavigationTestCase"/>
+          <include name="Deptnavigation"/>
+          <include name="ServicePlusPageTestCase"/>
+          <include name="browserstart"/>
+        </methods>
+      </class> <!-- SPAgricultureDepartmentHaryana.ApplicationforAcknowledgementofReceiptAuthorizationletterofFertilizerDealerServicesDistrictLevelTestCases2 -->
+      <class name="SPDepartmentofPower.ComplaintmanagementsystemTestCases">
+        <methods>
+          <include name="getResult"/>
+          <include name="DeptNavigation"/>
+          <include name="ServicePlusPageTestCase"/>
+          <include name="ServiceNavigationTestCase"/>
+          <include name="browserstart"/>
+        </methods>
+      </class> <!-- SPDepartmentofPower.ComplaintmanagementsystemTestCases -->
+      <class name="SPDepartmentofPanchayatiRajJammuKashmir.ApplicationforIssuanceofJobCardunderMGNREGATestCases">
+        <methods>
+          <include name="getResult"/>
+          <include name="VisitServiceclick"/>
+          <include name="Seeinfoclick"/>
+          <include name="browserstart"/>
+        </methods>
+      </class> <!-- SPDepartmentofPanchayatiRajJammuKashmir.ApplicationforIssuanceofJobCardunderMGNREGATestCases -->
+      <class name="SPTourismMeghalaya.Duplicatetestcase">
+        <methods>
+          <include name="getResult"/>
+          <include name="Deptnavigation"/>
+          <include name="servicecountfromexcel"/>
+          <include name="browserstart"/>
+        </methods>
+      </class> <!-- SPTourismMeghalaya.Duplicatetestcase -->
+      <class name="SPDepartmenOfHome.SaleTransferGiftDeactivationofArmsLicenseTestCase">
+        <methods>
+          <include name="getResult"/>
+          <include name="DeptNavigation"/>
+          <include name="Seeinfoclick"/>
+          <include name="VisitServiceclick"/>
+          <include name="ServicePlusPageTestCase"/>
+          <include name="refreshpage"/>
+          <include name="ServiceNavigationTestCase"/>
+          <include name="browserstart"/>
+        </methods>
+      </class> <!-- SPDepartmenOfHome.SaleTransferGiftDeactivationofArmsLicenseTestCase -->
+      <class name="SPAgricultureDep.MinorirrigationTestcase">
+        <methods>
+          <include name="getResult"/>
+          <include name="VisitServiceclick"/>
+          <include name="Seeinfoclick"/>
+          <include name="browserstart"/>
+        </methods>
+      </class> <!-- SPAgricultureDep.MinorirrigationTestcase -->
+      <class name="SPDepartmentOfLabour.DeathFinancialBenefitTestCase">
+        <methods>
+          <include name="getResult"/>
+          <include name="VisitServiceclick"/>
+          <include name="Seeinfoclick"/>
+          <include name="browserstart"/>
+        </methods>
+      </class> <!-- SPDepartmentOfLabour.DeathFinancialBenefitTestCase -->
+      <class name="SPDirectorateofFisheries.SubsidyforSupplyofFishingInputsEFRTestCase">
+        <methods>
+          <include name="Seeinfoclick"/>
+          <include name="getResult"/>
+          <include name="VisitServiceclick"/>
+          <include name="browserstart"/>
+        </methods>
+      </class> <!-- SPDirectorateofFisheries.SubsidyforSupplyofFishingInputsEFRTestCase -->
+      <class name="SPDepOfScienceAndTechnology.PromotionofScienceEducationPOSEScholarshipTestCases">
+        <methods>
+          <include name="getResult"/>
+          <include name="Seeinfoclick"/>
+          <include name="VisitServiceclick"/>
+          <include name="ServicePlusPageTestCase"/>
+          <include name="DeptNavigation"/>
+          <include name="refreshpage"/>
+          <include name="ServiceNavigationTestCase"/>
+          <include name="browserstart"/>
+        </methods>
+      </class> <!-- SPDepOfScienceAndTechnology.PromotionofScienceEducationPOSEScholarshipTestCases -->
+      <class name="SPLabourDepartment.FamilyPensionforPensionerofHBOCWWBoardTestCases">
+        <methods>
+          <include name="getResult"/>
+          <include name="ServicePlusPageTestCase"/>
+          <include name="DeptNavigation"/>
+          <include name="ServiceNavigationTestCase"/>
+          <include name="browserstart"/>
+        </methods>
+      </class> <!-- SPLabourDepartment.FamilyPensionforPensionerofHBOCWWBoardTestCases -->
+      <class name="SPPrintingandStationeryDepartmentHaryana.ChangeofNameTestCases">
+        <methods>
+          <include name="ServicePlusPageTestCase"/>
+          <include name="getResult"/>
+          <include name="ServiceNavigationTestCase"/>
+          <include name="DeptNavigation"/>
+          <include name="browserstart"/>
+        </methods>
+      </class> <!-- SPPrintingandStationeryDepartmentHaryana.ChangeofNameTestCases -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

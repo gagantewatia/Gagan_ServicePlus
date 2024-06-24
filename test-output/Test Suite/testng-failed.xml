@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Test Suite]">
+  <test thread-count="5" name="test(failed)">
+    <classes>
+      <class name="UMANG.Cowintest.GSTNSearchtaxpayertestcases">
+        <methods>
+          <include name="GSTNnorecordfounddata"/>
+          <include name="GSTNvaliddata"/>
+          <include name="browserstart"/>
+        </methods>
+      </class> <!-- UMANG.Cowintest.GSTNSearchtaxpayertestcases -->
+    </classes>
+  </test> <!-- test(failed) -->
+</suite> <!-- Failed suite [Test Suite] -->

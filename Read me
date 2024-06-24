@@ -1,0 +1,7 @@
+Create Base class for login (base2) -
+Create Page objects for locators in src/main/java and add explicit wait in same function
+Create test classes in src/test/java
+ Utilites for excel data provider
+ Listeners for capturing screenshot
+ Extent report for generating details
+ Generate Testng xml for diiferent test suites
